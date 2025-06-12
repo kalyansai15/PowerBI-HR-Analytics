@@ -15,30 +15,6 @@ This repository contains a Power BI project focused on analyzing employee attrit
 
 ---
 
-## 📈 Dashboard Highlights
-
-- **Attrition by Education Field**
-  - Life Sciences: 38%
-  - Medical: 27%
-  - Marketing & Technical Degree: ~14–15%
-
-- **Attrition by Age Group**
-  - Highest attrition: 26–35 years  
-  - Lower attrition: 46+ years  
-
-- **Attrition by Job Role**
-  - Laboratory Technician: 62  
-  - Sales Executive: 57  
-  - Research Scientist: 47  
-
-- **Attrition by Salary Slab**
-  - Most attrition occurred in the ₹0–5K range
-
-- **Attrition by Department & Gender**
-  - Highest attrition in Research & Development  
-  - Males had higher attrition numbers than females
-
----
 
 ## 📁 File Contents
 
